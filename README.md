@@ -39,3 +39,7 @@ Here’s an example of the output of the script as it sends events to Facebook.
 As you can see from all the examples and custom code, there’s a lot more you can do with the Facebook pixel beyond pasting the base code onto your page.
 
 With these advanced features you will be able to send in  more segmented data to Facebook which you can then use to direct the algorithm to fine tune your optimizations or find more targeted audience segments.
+
+**Watch the tutorial on Youtube**
+
+[![How To Track Percentage Of Video Viewed With The Facebook Pixel](https://img.youtube.com/vi/JpJ2WQOrpOg/0.jpg)](http://www.youtube.com/watch?v=JpJ2WQOrpOg) 
