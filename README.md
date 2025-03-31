@@ -1,4 +1,4 @@
-# Pixel Based On Percentage of Video Watched
+# Pixel Users Based On Percentage of Video Watched
 
 Video is a big part of content used on landing pages and sales pages. On Facebook, you are able to use video viewership data to create custom audiences and lookalike audiences for scaling up your campaigns.
 
